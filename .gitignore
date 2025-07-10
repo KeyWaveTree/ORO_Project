@@ -1,0 +1,5 @@
+# Ignore platform-specific virtual environments
+.venv
+# Bytecode
+__pycache__/
+*.pyc
